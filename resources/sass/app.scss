@@ -1,0 +1,122 @@
+@import '~element-ui/lib/theme-chalk/index.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400&display=swap');
+
+.font-mulish {
+    font-family: 'Mulish', sans-serif;
+}
+
+.modal {
+    z-index: 99999 !important;
+}
+
+.pre-wrap {
+    white-space: pre-wrap !important;
+}
+
+.app-title {
+    color: rgb(255, 45, 32) !important;
+}
+
+.app-title:hover {
+    color: rgb(255, 85, 74) !important;
+}
+
+.app-title-sidebar {
+    color: rgb(255, 85, 74) !important;
+}
+
+.app-title-sidebar:hover {
+    color: rgb(255, 105, 96) !important;
+}
+
+.btn-max-height, .input-max-height {
+    height: 40px !important;
+}
+
+.transparent-container {
+    opacity: 0.2 !important;
+}
+
+.semi-transparent-container {
+    opacity: 0.4 !important;
+}
+
+.el-input__inner {
+  border-radius: 1px !important;
+}
+
+.dotted-link {
+  text-decoration: none;
+  border-bottom: 1px dotted grey;
+}
+
+.v-tippy-error {
+    color: #ec8135 !important;
+}
+
+.lighter-hr {
+    opacity: 0.6 !important;
+}
+
+.fs-18 {
+    font-size: 18px !important;
+}
+
+.fs-20 {
+    font-size: 20px !important;
+}
+
+.fs-22 {
+    font-size: 22px !important;
+}
+
+.disabled-overlay {
+    opacity: 0.3 !important;
+}
+
+.header-link-separator {
+    opacity: 0.2 !important;
+}
+
+.el-select.el-sel-full-width {
+    width: 100% !important;
+}
+
+.el-tabs__nav-wrap::after {
+    height: 1px !important;
+    opacity: 0.7 !important;
+}
+
+.el-tabs__nav-next {
+    right: 5px;
+    top: -2px;
+}
+
+.el-tabs__nav-prev {
+    left: 5px;
+}
+
+.el-tabs__item {
+    padding-right: 5px !important;
+}
+
+.tippy-tooltip.transparent-theme {
+    /* Your styling here. Example: */
+    max-width: 100% !important;
+    background-color: transparent;
+    //border: 2px solid orange;
+}
+
+.tippy-popper[x-placement^=top] .tippy-tooltip.honeybee-theme .tippy-arrow {
+    display: none;
+}
+
+.btn-default:disabled:hover, .btn-default:disabled:focus, .btn-default:disabled:active {
+    color: #5e5e5e !important;
+    background-color: white !important;
+}
+
+.el-timeline .el-timeline-item.tailed:last-child .el-timeline-item__tail {
+    display: block !important;
+}

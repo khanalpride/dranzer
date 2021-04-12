@@ -1,0 +1,41 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": [
+    "airbnb-base",
+    "plugin:vue/essential"
+  ],
+  "rules": {},
+  "settings": {
+    "import/resolver": {
+      "alias": {
+        "map": [
+          ["@", "./resources/js"]
+        ],
+        "extensions": [".js", ".vue"]
+      }
+    }
+  },
+  "overrides": [
+    {
+      "files": ["*.*"],
+      "rules": {
+        "max-len": [
+          "error",
+          {
+            "code": 180
+          }
+        ],
+        "no-return-assign": "off",
+        "no-param-reassign": "off",
+        "vue/no-use-v-if-with-v-for": "off"
+      }
+    }
+  ]
+}
