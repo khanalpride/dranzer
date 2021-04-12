@@ -2,7 +2,7 @@
 
 #### Scaffold production ready Laravel apps in seconds!
 
-![](https://i.imgur.com/2ccLWvh.png)
+![](https://i.imgur.com/2nvJ1RK.png)
 
 ### Requirements
 
