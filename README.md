@@ -6,54 +6,53 @@
 
 ### Features
 
-✓ Build API
+✓ [Build API](https://i.imgur.com/KFXHem8.png)
 
-✓ Generate Authentication (UI, Breeze and Fortify)
+✓ [Generate Authentication (UI, Breeze and Fortify)](https://i.imgur.com/QywuGsE.png)
 
-✓ Role Based Authorization (Orchid Admin Panel)
+✓ [Role Based Authorization (Orchid Admin Panel)](https://i.imgur.com/0sUMRI5.png)
 
-✓ Compliance (Cookies Consent)
+✓ [Compliance (Cookies Consent)](https://i.imgur.com/L5OiWLI.png)
 
-✓ Build Controllers
+✓ [Build Controllers](https://i.imgur.com/xEw6K2U.png)
 
-✓ Schema Manager
+✓ [Schema Manager](https://i.imgur.com/xLZ3KjC.png)
 
-✓ Eloquent Relations Manager
+✓ [Eloquent Relations Manager](https://i.imgur.com/RRsHfGd.png)
 
-✓ Configure Nginx
+✓ [Configure Nginx](https://i.imgur.com/y2WofV4.png)
 
-✓ Install Development Packages (DebugBar, Decomposer, IDE Helper)
+✓ [Install Development Packages (DebugBar, Decomposer, IDE Helper)](https://i.imgur.com/n0CEVk6.png)
 
-✓ Configure Exceptions (Error Pages, Exceptions Handler)
+✓ [Configure Exceptions (Error Pages, Exceptions Handler)](https://i.imgur.com/UzLoV58.png)
 
-✓ Setup Tailwind
+✓ [Setup Tailwind](https://i.imgur.com/mkcyLu7.png)
 
-✓ Setup Vue
+✓ [Setup Vue](https://i.imgur.com/HHtO50b.png)
 
-✓ Create Admin Panel (Orchid)
+✓ [Create Admin Panel (Orchid)](https://i.imgur.com/ipPUsej.png)
 
-✓ Custom Blade Layout
+✓ [Custom Blade Layout](https://i.imgur.com/2Awz2nG.png)
 
-✓ Custom Blade Partials
+✓ [Custom Blade Partials](https://i.imgur.com/idgPXY2.png)
 
-✓ Configure Linters (Eslint)
+✓ [Configure Linters (Eslint)](https://i.imgur.com/hgiziS8.png)
 
-✓ Setup Logging
+✓ [Setup Logging](https://i.imgur.com/wlW2rTA.png)
 
-✓ Create Mailables
+✓ [Create Mailables](https://i.imgur.com/tx8ivMc.png)
 
-✓ Configure Middlewares
+✓ [Configure Middlewares](https://i.imgur.com/MSc3f8M.png)
 
-✓ Create Notifications 
+✓ [Create Notifications](https://i.imgur.com/U1ryGUR.png) 
 
-✓ Create Jobs
+✓ [Create Jobs](https://i.imgur.com/mQbXcJG.png)
 
-✓ Configure Headers and Proxies
+✓ [Configure Headers and Proxies](https://i.imgur.com/hVhIEp7.png)
 
-✓ Create Scheduled Tasks
+✓ [Create Scheduled Tasks](https://i.imgur.com/sf3lLPI.png)
 
-✓ Configure Form Validation
-
+✓ [Configure Form Validation](https://i.imgur.com/lfDXQiY.png)
 
 ### Installation
 
