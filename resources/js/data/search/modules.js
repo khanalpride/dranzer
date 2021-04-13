@@ -108,14 +108,6 @@ export default [
         },
         cache: false,
       },
-      {
-        title: 'API Controllers',
-        key: 'ControllersContainer',
-        props: {
-          type: 'api',
-        },
-        cache: false,
-      },
     ],
   },
   {

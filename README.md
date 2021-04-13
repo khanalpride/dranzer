@@ -2,16 +2,67 @@
 
 #### Scaffold production ready Laravel apps in seconds!
 
-![](https://i.imgur.com/2nvJ1RK.png)
+![](https://i.imgur.com/E1UYgFh.png)
 
-### Requirements
+### Features
 
-- PHP 7.4
-- MongoDB 4.4
-- Composer
-- Yarn or NPM
+✓ Build API
+
+✓ Generate Authentication (UI, Breeze and Fortify)
+
+✓ Role Based Authorization (Orchid Admin Panel)
+
+✓ Compliance (Cookies Consent)
+
+✓ Build Controllers
+
+✓ Schema Manager
+
+✓ Eloquent Relations Manager
+
+✓ Configure Nginx
+
+✓ Install Development Packages (DebugBar, Decomposer, IDE Helper)
+
+✓ Configure Exceptions (Error Pages, Exceptions Handler)
+
+✓ Setup Tailwind
+
+✓ Setup Vue
+
+✓ Create Admin Panel (Orchid)
+
+✓ Custom Blade Layout
+
+✓ Custom Blade Partials
+
+✓ Configure Linters (Eslint)
+
+✓ Setup Logging
+
+✓ Create Mailables
+
+✓ Configure Middlewares
+
+✓ Create Notifications 
+
+✓ Create Jobs
+
+✓ Configure Headers and Proxies
+
+✓ Create Scheduled Tasks
+
+✓ Configure Form Validation
+
 
 ### Installation
+
+#### Requirements
+
+- PHP >= 7.4
+- MongoDB >= 4.4
+- Composer
+- Yarn or NPM
 
 **1. Clone this repository:**
 
@@ -21,7 +72,7 @@
 
 `cd dranzer`
 
-**3. Install composer and node dependencies:**
+**3. Install dependencies:**
 
 `composer install && yarn`
 
@@ -44,10 +95,6 @@ Dranzer uses GitHub authentication. Create an OAuth app and edit the `GITHUB_CLI
 Dranzer places the generated project to the project directory defined in the .env file. Edit the **`PROJECTS_DIR`** env variable to where you want the generated project.
 
 **Done. Use your preferred dev environment to access the project.**
-
-### Available Modules
-
-![](https://i.imgur.com/JyaaC8e.png)
 
 ### Roadmap
 
